@@ -1,0 +1,6 @@
+gametitle=WRC Rally Evolved [CBBC2E7F]
+
+[Enable Debug Menu]
+author=CPZXIII
+description=Press R3 + L3 to open debug menu
+patch=1,EE,00241174,word,24020001
