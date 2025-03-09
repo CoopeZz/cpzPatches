@@ -1,0 +1,6 @@
+gametitle=WRC avec Sébastien Loeb [79BAD675]
+
+[Enable Debug Menu]
+author=CPZXIII
+description=Press 'R3' + 'L3' to open debug menu
+patch=1,EE,00246264,word,24020001
