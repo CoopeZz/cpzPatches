@@ -4,3 +4,9 @@ gametitle=WRC avec Sébastien Loeb [79BAD675]
 author=CPZXIII
 description=Press 'R3' + 'L3' to open debug menu
 patch=1,EE,00246264,word,24020001
+
+[Force English Language]
+author=CPZXIII
+description=Forcing English language (with Co-Driver)
+patch=1,EE,00344050,word,0000802D
+patch=1,EE,00106C44,word,A0800000
